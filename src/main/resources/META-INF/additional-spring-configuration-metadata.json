@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "presearch.initial_date",
+    "type": "java.lang.String",
+    "description": "Initial date to get data'"
+  },
+  {
+    "name": "presearch.max_request_hour",
+    "type": "java.lang.Integer",
+    "description": "Up to n requests per hour"
+  },
+  {
+    "name": "presearch.api_key",
+    "type": "java.lang.String",
+    "description": "Presearch API key"
+  },
+  {
+    "name": "presearch.url",
+    "type": "java.lang.String",
+    "description": "Presearch url for request stats"
+  }
+]}
